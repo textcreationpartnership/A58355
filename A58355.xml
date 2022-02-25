@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a Catholick gentleman to his Popish friends, now to be exil'd from London Dated, Nov. 6. 1678. Licensed, 1678.</title>
+            <author>B. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58355</idno>
+            <idno type="STC">Wing R7</idno>
+            <idno type="STC">ESTC R217706</idno>
+            <idno type="EEBO-CITATION">99829355</idno>
+            <idno type="PROQUEST">99829355</idno>
+            <idno type="VID">33793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1978:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a Catholick gentleman to his Popish friends, now to be exil'd from London Dated, Nov. 6. 1678. Licensed, 1678.</title>
+                  <author>B. R.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>re-printed in the year, 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: B.R.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Exiles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33793:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A CATHOLICK GENTLEMAN TO HIS Popiſh Friends, Now to be Exil'd from LONDON.</p>
+            <p>Dated, <hi>Nov.</hi> 6. 1678.</p>
+            <p>Licenſed, 1678.</p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the year, 1678</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:33793:2"/>
+            <pb n="3" facs="tcp:33793:2"/>
+            <head>A Letter from a Catholick Gentleman to his Popiſh Friends.</head>
+            <opener>
+               <salute>SIRS!</salute>
+            </opener>
+            <p>MEthinks here's a ſtrange diſappointment! ſow <hi>Tares,</hi> and reap <hi>Hemp!</hi> ſo many Catholick <hi>Calves,</hi> that might have proved <hi>Bulls of Ba<g ref="char:EOLhyphen"/>ſhan,</hi> now turn'd to <hi>Graſs</hi> i'th' depth of Winter; fie upon two ugly Proverbs, <hi>All covet, all looſe,</hi> and peo<g ref="char:EOLhyphen"/>ple can't ſee when they are well, not minding theſe has ruined us. Well may our <hi>Iriſh</hi> Friends, cry <hi>Oh hone! Oh hone!</hi> and <hi>skulking</hi> Prieſts ſing <hi>Lacrymae,</hi> that lately hop'd to have Chanted <hi>Jovial Anthems</hi> at <hi>Three King<g ref="char:EOLhyphen"/>doms Funerals.</hi> We are certain, <hi>This</hi> is at leaſt the <hi>Two hundredth</hi> Religious PLOT, we have contrived againſt the <hi>Hereticks,</hi> and as <hi>Hopeful</hi> as any; and yet to miſcarry thus at laſt, would make a Capuchine out-ſwear a <hi>looſing Gameſter.</hi> Sure <hi>Holy Church,</hi> though ſhe be <hi>Infallible</hi> in divinity, is ſubject to <hi>ſcurvy Miſtakes</hi> in her Politicks, though confident we are, <hi>had heaven ſtood neuter,</hi> things had never come to this paſs. But what ſignifies it to have <hi>the Keyes,</hi> when the <hi>Wards</hi> are <hi>alterad.</hi>
+            </p>
+            <p>Well! ſince it muſt be ſo, <hi>Farewell LONDON!</hi> we thought <hi>once more</hi> to have <hi>warmed our hands in
+<pb n="4" facs="tcp:33793:3"/>Thee,</hi> before we went. I'le ſay that for thee, thou wert <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> For<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſts in the l<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, for a <hi>Jeſuitical <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ox</hi> to <hi>earth</hi> in. His ſafeſt <hi>Kennel</hi> was a <hi>Ladies Chamber,</hi> the modeſty of the <hi>Meſſenger</hi> left the <hi>Bed unſearch'd,</hi> and ſo he miſſ'd him.</p>
+            <p>But <hi>Courage!</hi> ſtout <hi>Catholicks!</hi> I truſt you have <hi>learn'd</hi> (or elſe you were never well <hi>Catechiz'd</hi> in your <hi>Fundamental principles</hi>) to diſtinguiſh betwixt your <hi>Kings commands,</hi> and your <hi>Ghostly Fathers,</hi> and which is preferable. If ſo, you will ſee there is no ſuch <hi>Neceſſity</hi> to be <hi>packing.</hi> How ſhall the <hi>dull Hereticks</hi> (without <hi>Infallible Spectacles,</hi> and thoſe <hi>His Holineſs</hi> reſerves for his own <hi>Noſe</hi>) know a <hi>Roma<g ref="char:EOLhyphen"/>niſt?</hi> Though he carrie the <hi>Beasts Mark</hi> in his heart, he does not <hi>yet,</hi> wear it on his <hi>Forehead.</hi> But you'll ſay, they'll <hi>purge our conſciences.</hi> Prethee tell me, what Proteſtant <hi>Scammony</hi> is ſtrong enough to make a <hi>through pac'd Catholick</hi> Diſgorge <hi>Infallability,</hi> or the Popes <hi>unaccomptible power?</hi> yet till they can do <hi>that,</hi> they do but reſtrain <hi>popery,</hi> juſt as Quacks <hi>cure Agues</hi> with <hi>Jeſuits powder?</hi> The Fit will certainly <hi>Re<g ref="char:EOLhyphen"/>vert,</hi> as ſoon as the <hi>malignant Humours</hi> can gather Flead; and the new <hi>convert</hi> Relapſe on the firſt op<g ref="char:EOLhyphen"/>portunity. Oaths will hind him no more than a <hi>twin'd Thread Sampſon.</hi> He can ſwallow the moſt <hi>Barbed Test,</hi> as cleverly as <hi>Hocus Daggers,</hi> or a Dutchman butter'd Cod-fiſh. A <hi>Diſpenſation</hi> (and that his Holi<g ref="char:EOLhyphen"/>neſſes <hi>charity</hi> and <hi>zeal,</hi> in ſo <hi>great and pious</hi> a Cauſe, you may be ſure will never deny) is alwayes an infal<g ref="char:EOLhyphen"/>lible <hi>Help at Maw,</hi> a ſure <hi>Antidote</hi> againſt <hi>perjury,</hi> though taken in never ſo large a Doſe. The <hi>Jeſuits</hi>
+               <pb n="5" facs="tcp:33793:3"/>Doctrine of <hi>Equivocation,</hi> may huſh the grumblings of the moſt <hi>ſqueamiſh</hi> Soul. However our pious Maxime avowed by a Council, <hi>That Faith is not to be kept with Hereticks,</hi> is a moſt convenient <hi>Back-door,</hi> that will not fall to ſecure your Retreat.</p>
+            <p>But (becauſe <hi>Examples</hi> are more perſwaſive than <hi>pre<g ref="char:EOLhyphen"/>cepts</hi>) let me mind you of two famous <hi>Inſtances</hi> a<g ref="char:EOLhyphen"/>mongſt many that might be repeated, did not your ſhort time of <hi>ſtay</hi> forbid prolixitie. The firſt ſhall be that of the gallant <hi>William Parry,</hi> ſworn a Servant to Queen <hi>Elizabeth, anno</hi> 1570. who three ſeveral times <hi>voluntarily took the Oath of Obedience</hi> to that Queen, preſcribed in the firſt Year of her Raign, and yet af<g ref="char:EOLhyphen"/>terwards (like a <hi>true and generous Catholick</hi>) conſpi<g ref="char:EOLhyphen"/>red not only to <hi>depoſe,</hi> but <hi>Murther</hi> her, and came but <hi>little ſhort</hi> of accompliſhing it. For which <hi>brave attempt,</hi> in the Year 1584. he received the Crown of <hi>Martyrdome at Tyburne.</hi> The other is, of the great <hi>Watſon</hi> a Prieſt, and one of our Modern <hi>Saints,</hi> who in his Book entituled <hi>Quodlibetical Queſtions,</hi> makes a ſerious Proteſtation — <q rend="margQuotes">
+                  <hi>That albeit he differed in Religion from that which was profeſſed in the Church of</hi> England; <hi>yet if either</hi> Pope <hi>or</hi> Spaniard <hi>ſhould ſeek by Hoſtile means to invade his Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntrey, he would wil<g ref="char:EOLhyphen"/>lingly ſpend his ſubſtance, nay, his deareſt Blood againſt any ſuch as ſhould attempt it.</hi>
+               </q> — Could any <hi>promiſe</hi> more fairly or more fully? yet <hi>he himſelf,</hi> with <hi>Clark</hi> his Fellow Seminary, were the <hi>firſt</hi> that ſaluted the <hi>Gallows,</hi> for acting quite contrary thereunto, by Traiterous deſigns againſt King <hi>James.</hi> And who ſhall boggle to follow ſuch <hi>Reverend and Holy</hi> Precedents?</p>
+            <pb n="6" facs="tcp:33793:4"/>
+            <p>But, not to waſte time in telling ſtories—Will not our thred-bare diſtinction—<hi>I am Catholick of the Church, but not of the Court of</hi> Rome, do ſome feats? 'tis ſilly, I confeſs, as if all the Animal Powers did not flow from the Head, or he that embarques with the Devil were not bound to ſail with him. But what then? we that have bubbled a grand part of the world into a belief of Tranſubſtantiation &amp;c. why may we not preſume to impoſe upon them leſſer abſurdities?</p>
+            <p>To the caſe in hand: Would you know how to demean your ſelves in this unhappy Juncture? I have partly told you already: if it be for the intereſt of the <hi>Catholick Cauſe,</hi> or your own Conveniencies, you may ſafely take the <hi>Oath of Supremacy.</hi> The King is higher then the Higheſt; but (<hi>I</hi> hope you mentally think) there are (even on earth) higher th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n he. 'Tis not the firſt time we have abuſed the Hereticks Scripture—you know your Priviledge. But if you m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt needs be jogging, be good Huſ<g ref="char:EOLhyphen"/>bandmen in the Countrey, ſow the Catholick Seed, but with a cautious hand. Moſt of you, Prieſts and Jeſuits I mean, have good Mechanick Trades beſides to live on, and help out at a dead lift. A poor work-wanting Shoomaker, Taylor, or Wea<g ref="char:EOLhyphen"/>ver may unſuſpectedly be entertain'd. What think you of perſo<g ref="char:EOLhyphen"/>nating a Quaker? the End you know ballows the Means, and the Badger makes a hole for the Fox. Speak loud of Catholick Loyalty—You may boldly outf<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce the Powder Treaſon—Alas! 'twas above ſeventy years ago. And as for the ſmall buſineſs of <hi>Ireland,</hi> 'tis almoſt forgot, or at leaſt our Cruelties there were ſo incredible, that to thoſe that know no better, they will ſeem Fables, eſpecially, if you aſſure them 'twas onely a Re<g ref="char:EOLhyphen"/>bellion on a Civil, not Religious ſcore, as Iriſh men, not as Pa<g ref="char:EOLhyphen"/>piſts—But as to our Loyal Adventures in <hi>England,</hi> perhaps they'l tell you neceſſity made our vertue; and though Whores are Car<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, yet no woman had ever Rewards allowed her for not being a common Proſtitute. At moſt, that paſt-due Servi<g ref="char:EOLhyphen"/>ces can challenge no protection for after Crimes,—However, inculcate it ſtill, 'twill amuſe vulgar heads; and why may not we that can claim <hi>Supererogating</hi> merits from Heaven, Expect them from earthly Thrones?</p>
+            <pb n="7" facs="tcp:33793:4"/>
+            <p>When the Treaſon appears too <hi>bread-faced</hi>—Then rail a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Jeſuits—Caſt the Odium there—Though the other Orders would have claimed as great a ſhare both in the merit and booty; If the buſineſs had ſucceeded, at leaſt, <hi>F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non debet <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctum valet,</hi> had been their excuſe; yet 'tis better a few bear the blame (they have ſhoulders bread enough) than all.</p>
+            <p>Whiſper where it may be ſafe—That 'tis only a <hi>Trick of State</hi>—A few decoyed Deſperado's concerned; a couchant project for a <hi>ſtanding Armie,</hi> (we wiſh, they had been down then moſt probably had we been up) drive that nail home, which alone well clenched in ſome thick ſcull'd heads, will no<g ref="char:EOLhyphen"/>tably forward our work. Divide and alle<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te the peoples Affe<g ref="char:EOLhyphen"/>ctions: 'Tis the only Card we have now to play. If we cannot wound the Government mortally, let's Ply-blow it with Scan<g ref="char:EOLhyphen"/>dals and Suſpitions, that no man truſting another, all may at laſt become our prey.</p>
+            <p>Scatter privately ſome horrid impoſſible Rumours of our par<g ref="char:EOLhyphen"/>ties Plots, that thoſe being found filly and groſly falſe, our real deſigns may be disbelieved: Promote Reports and Scandals on perſons unconcerned, as if they were Confederates: 'tis a bleſſed Line in <hi>Mat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hiavel—If durt enough be thrown ſome will ſtick.</hi> This at leaſt will render them ſuſpected, and di<g ref="char:EOLhyphen"/>vert their vigorous proſecution: and he that by Art can make a <hi>Neuter</hi> of an <hi>Enemy,</hi> gains a Friend without being beholden to him.</p>
+            <p>They rail at us impertinently for Cruelty: for if we have, or ſhall (as who knows what may happen) kill thouſands of He<g ref="char:EOLhyphen"/>reticks, 'tis all in love: Love to <hi>Holy Church,</hi> that ſhe may not be troubled with them: Love to the World, that it may not be infected with them: Love to their Souls, that their Sufferings in the other world may be the leſs, by how much the time of their ſinning in this in the ſhorter. And who will not rather applaud, than blame ſuch pure <hi>Catholick Charity?</hi>
+            </p>
+            <p>That which may adde moſt to your grief, is to ſee (before your departure) our <hi>Holy Fathers</hi> Dignity ſo villified and ex<g ref="char:EOLhyphen"/>poſed
+<pb n="8" facs="tcp:33793:5"/>in the Streets, on that curſed, unfor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unate Fifth of <hi>No<g ref="char:EOLhyphen"/>vember.</hi> Thoſe <hi>London</hi>-Prentices (the firſt-born of Hereſie) we have vowed as eternal hatred to, as ever <hi>Hannibal</hi> had againſt our Mother <hi>Rome.</hi> Yet are ſo far beforehand with them in Revenge, that whereas they can but burn his <hi>Holineſs</hi> in Effigie, he has formerly cauſed their Anceſtors (and we hope ſhall their Succeſſors too) to be burnt <hi>in propri<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s perſonis.</hi>
+            </p>
+            <p>But how came they to ſacrifice ſo many Popes together? Though it muſt be acknowledged, we had once a <hi>jollie Company</hi> actually in being at a time; I mean about the year 1378. when <hi>Gregorie</hi> the twelfth, and <hi>Benedict</hi> the thirteenth, and <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> and <hi>John</hi> the twenty third, were all Four ſcrambling for the triple Crown: A ſhrewd Gap in our Succeſſion, and Flaw in our Infallibility, eſpecially ſince even the moſt unerrable Votes of our Council at <hi>Piſa,</hi> could not compoſe, but rather increa<g ref="char:EOLhyphen"/>ſed the Sacred Brangle: Yet how theſe unhappy <hi>Lads</hi> ſhould come to know ſo much, to me is a Riddle. Though we ſhould lock up the Bible, yet unleſs we could bury Hiſtory too, I ſee there's no good to be done on this prying Age: <hi>I</hi> thought our good Friends, <hi>Leviathan,</hi> and <hi>Tractatus Theologo Politicus,</hi> had done half our buſineſs; that thoſe that value no <hi>Religion</hi> but <hi>Intereſt,</hi> had been ſtrong enough to introduce OURS, which is ſo near of Kin. But if we are miſtaken in our preſent Meaſures, let's wait a while; An expert Seaman can ſail with the <hi>Wind in his teeth.</hi> Patience is then only a Vertue, when all others prove uſe leſs. Learn to be wiſe. Swim with that Tyde you cannot ſtem. Kiſs thoſe hands you would cut off; and Hung thoſe you thought to Hang, at leaſt until you can. Put theſe few haſty <hi>Hints</hi> handſomely in practice; and expect, after next Forr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ign Poſt, further Directions from</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>November</hi> the 6th, 1678. <hi>Old Stile.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Truſty Adviſer, <hi>B.</hi> R.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33793:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
